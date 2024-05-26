@@ -1,0 +1,7 @@
+﻿pandas
+statsmodels
+scikit-learn
+xgboost
+tensorflow
+pmdarima
+streamlit
